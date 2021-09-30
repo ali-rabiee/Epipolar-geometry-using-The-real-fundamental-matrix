@@ -3,5 +3,5 @@ Two images are given in files ‘img1.png’ and ‘img2.png’. The file ‘poi
 
 First, we compute the fundamental matrix using these points, Showing points and epipolar lines on images.
 Now using 'points.mat' we know half of the pairs are inliers and the other
-half are outliers. Using RANSAC and the 8-point algorithm, and we Implemented a program to find the fundamental matrix using
+half are outliers. We use RANSAC and the 8-point algorithm, and we Implemented a program to find the fundamental matrix using
 these points.
